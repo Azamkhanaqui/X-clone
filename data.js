@@ -1,7 +1,7 @@
 export const tweetsData = [   
     {
         handle: `@Saitama ✅`,
-        profilePic: `images/sai.jpeg`,
+        profilePic: `images/sai.jpg`,
         likes: 27,
         retweets: 10,
         tweetText: `Beat today's final boss.
